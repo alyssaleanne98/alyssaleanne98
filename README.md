@@ -1,7 +1,12 @@
-### Hi there 👋
+### Hi, I'm Alyssa 👋
 
 <!--
 **alyssaleanne98/alyssaleanne98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
+I'm a scientist turned developer annd optimist. I am most passionate about bringing both the technical and visual aspects of digital products to life. I have a B.S in Nutrition and food science from San Jose State University. I thrive the most when I am learning, exploring, and solving deceptively simple problems. Reach out and say hello!
+
+
 
 Here are some ideas to get you started:
 
