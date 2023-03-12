@@ -6,6 +6,6 @@ I'm a scientist turned developer annd optimist. I am most passionate about bring
 <h2> Skills </h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+    <img src="https://skillicons.dev/icons?i=git,github,bootstrap,css,html,js,mongodb,nodejs,django,postgres,py,postman,express,react,netlify,vscode,c,vim" />
   </a>
 </p>
