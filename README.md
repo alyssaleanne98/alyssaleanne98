@@ -4,4 +4,4 @@ I'm a scientist turned developer annd optimist. I am most passionate about bring
 
 
 <h2> Skills </h2>
-[![My Skills](https://skills.thijs.gg/icons?i=js,html,css,python,nodejs,react,mongodb,postgres,,git&theme=light)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=git,css,js,mongodb,postgres,py,react,nodejs,html,rails&theme=light)](https://skills.thijs.gg)
