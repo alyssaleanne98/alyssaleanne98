@@ -1,6 +1,6 @@
 ### Hi, I'm Alyssa 👋🏽👩🏽‍💻
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/paTz7UZbPfTZFRYnnB/giphy.gif" width="200">
+  <img src="https://media.giphy.com/media/paTz7UZbPfTZFRYnnB/giphy.gif" width="320">
   <div id='badges' align='center'>
     <a href='linkedin.com/in/alyssa-cervantes-alc' target='_blank'><img src='https://img.shields.io/badge/LinkedIn-0e76a8?logo=linkedin&logoColor=white&style=for-the-badge'></a>
   </div>
