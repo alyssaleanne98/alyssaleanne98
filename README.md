@@ -1,6 +1,6 @@
 ### Hi, I'm Alyssa 👋🏽👩🏽‍💻
 <div id="header" align="center">
-  <img src="[https://giphy.com/embed/paTz7UZbPfTZFRYnnB](https://giphy.com/stickers/mrurbinaco-mr-urbina-office-paTz7UZbPfTZFRYnnB?utm_source=iframe&utm_medium=embed&utm_campaign=Embeds&utm_term=https%3A%2F%2Fgithub.com%2Falyssaleanne98%2Falyssaleanne98%2Fblob%2Fmain%2FREADME.md)" width="200">
+  <img src="https://media.giphy.com/media/paTz7UZbPfTZFRYnnB/giphy.gif" width="200">
   <div id='badges' align='center'>
     <a href='linkedin.com/in/alyssa-cervantes-alc' target='_blank'><img src='https://img.shields.io/badge/LinkedIn-0e76a8?logo=linkedin&logoColor=white&style=for-the-badge'></a>
   </div>
